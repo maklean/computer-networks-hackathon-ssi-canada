@@ -12,7 +12,7 @@ Template for the Computer Networks Hackathon in partnership with [SSi Canada](ht
 ## Important LoRaWAN Terminology
 - `DevEUI`: unique device identifier (64 bit)
 - `DevAddr`: device address (32 bit)
-- `AppEUI`: applicaiton identifier (64 bit)
+- `AppEUI`: application identifier (64 bit)
 - `GatewayEUI`: gateway identifier (64 bit)
 
 ## Device Information
